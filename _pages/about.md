@@ -14,6 +14,7 @@ My name is Wesley (Wes) Howden. I am a postdoctoral research associate at the [U
 
 I study how individuals and societies adapt and mitigate against the impacts of climate and environmental change.
 
+<!---
 ## Education
 
 *University of California San Diego*
@@ -21,3 +22,4 @@ I study how individuals and societies adapt and mitigate against the impacts of 
 
 *The University of Chicago*
 - S.B. Mathematics, A.B. Economics, A.B. Political Science with honors, 2015
+-->
