@@ -83,8 +83,8 @@ author:
   name             : "Wesley Howden"
   avatar           : https://avatars.githubusercontent.com/u/12239988?v=4
   bio              : "Economics Ph.D. studying climate and environmental economics"
-  location         : "Tucson, AZ"
-  employer         : https://eller.arizona.edu/people/wesley-howden
+  location         :
+  employer         : [University Page](https://eller.arizona.edu/people/wesley-howden)
   pubmed           :
   googlescholar    :
   email            : "whowden@arizona.edu"
