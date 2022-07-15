@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Armata
+- Font Author: Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name "Armata"
+- Font Source: http://fonts.gstatic.com/s/armata/v19/gokvH63_HV5jQ-E9lD53Q2u_mQ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
