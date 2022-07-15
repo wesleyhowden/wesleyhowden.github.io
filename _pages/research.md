@@ -53,6 +53,8 @@ ___
 
 ## Other Collaborations
 
-**[Carbon Plotter](https://carbon-plotter.air.arizona.edu)**
+[Carbon Plotter](https://carbon-plotter.air.arizona.edu)
 
 In a joint collaboration between Carbon Mapper and the University of Arizona Institute for Resilient Environments & Societies ([AIRES](https://environment.arizona.edu/aires)), we have made publicly available data on methane plumes from Carbon Mapper's remote-sensing flyovers linked to tract-level Census demographics. With this, individuals can explore how these plumes co-vary with demographics in California (coverage across the Permian Basin and the southeast United States coming soon). Researchers are able to download the full underlying data, with plume coverage updating on a regular basis as new data are collected.
+
+![title](../images/carbon_plotter.png)
