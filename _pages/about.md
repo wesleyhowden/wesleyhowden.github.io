@@ -8,4 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Content
+## Education 
+
+*University of California San Diego*
+- Ph.D. in Economics, 2021
+
+*The University of Chicago*
+- S.B. Mathematics, A.B. Economics, A.B. Political Science with honors, 2015
