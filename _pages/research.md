@@ -42,3 +42,17 @@ Abstract: Proper land-use policy can help mitigate damages from natural disaster
 "Directed technical change in energy and choice of market policy"
 
 "International spillover in secondary car market regulation: Evidence from a German scrappage policy"
+
+___
+
+## Press Coverage
+
+AC work highlighted in [The Conversation](https://theconversation.com/4-ways-extreme-heat-hurts-the-economy-164382)
+
+___
+
+## Other Collaborations
+
+**[Carbon Plotter](https://carbon-plotter.air.arizona.edu)**
+
+In a joint collaboration between Carbon Mapper and the University of Arizona Institute for Resilient Environments & Societies ([AIRES](https://environment.arizona.edu/aires)), we have made publicly available data on methane plumes from Carbon Mapper's remote-sensing flyovers linked to tract-level Census demographics. With this, individuals can explore how these plumes co-vary with demographics in California (coverage across the Permian Basin and the southeast United States coming soon). Researchers are able to download the full underlying data, with plume coverage updating on a regular basis as new data are collected.
