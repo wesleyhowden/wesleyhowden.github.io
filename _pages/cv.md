@@ -6,3 +6,5 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+[CV](../files/cv_whowden.pdf)
