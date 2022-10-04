@@ -37,7 +37,7 @@ Abstract: Proper land-use policy can help mitigate damages from natural disaster
 
 "A Historical Measure of Risk Preferences" (with [Remy Levin](https://sites.google.com/view/remy-levin) and [Daniela Vidart](https://www.danielavidart.com))
 
-"Impacts of Maternal Exposure to PFAS on Infant Health Outcomes" (with [Robert Baluja](https://eller.arizona.edu/people/robert-baluja), [Bo Guo](https://has.arizona.edu/people/bo-guo), [Ashley Langer](https://www.ashleylanger.com), and [Derek Lemoine](https://www.dereklemoine.com))
+"Impacts of Maternal Exposure to PFAS on Infant Health Outcomes" (with [Robert Baluja](https://www.robertbaluja.com), [Bo Guo](https://has.arizona.edu/people/bo-guo), [Ashley Langer](https://www.ashleylanger.com), and [Derek Lemoine](https://www.dereklemoine.com))
 
 "Directed technical change in energy and choice of market policy"
 
