@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-## Working Papers
+## Job Market Paper
 
 ["Adaptation to Weather Shocks and Household Beliefs on Climate: Evidence from California"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3892429) (*new version coming soon!*)
 
 Abstract: Using a difference-in-difference framework, I show that California households exposed to a severe heat wave are differentially more likely to adopt central air conditioning units than those less exposed, controlling for historical climate. Using these "induced adopters" to predict take-up, I show that induced adopters have a significant increase in their summer energy demand 3 years following the heat wave, with insignificant effects on their winter electricity demand. In addition, I present a theoretical framework where household belief-updating about the climate rationalizes household learning about the climate that cannot be explained by myopia or alternative channels.
 
----
+## Working Papers
 
 ["The Global Impacts of Climate Change on Risk Preferences"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4132517) (with [Remy Levin](https://sites.google.com/view/remy-levin))
 
