@@ -27,6 +27,12 @@ Abstract: Proper land-use policy can help mitigate damages from natural disaster
 
 ---
 
+"Impacts of Maternal Exposure to PFAS on Infant Health Outcomes" (with [Robert Baluja](https://www.robertbaluja.com), [Bo Guo](https://has.arizona.edu/people/bo-guo), [Ashley Langer](https://www.ashleylanger.com), and [Derek Lemoine](https://www.dereklemoine.com))
+
+Abstract: Since testing began in 1999, scientists at the CDC administering the National Health and Nutrition Examination Survey have found detectable levels of four different species of Per- and polyfluoroalkyl substances (PFAS) in the blood of almost every individual tested. With the ubiquity of these contaminants, strikingly little is known about the effects of their presence in the environment on human health. This paper works to fill this void. In this version of the project, we use aggregate level natality data from the state of New York, coupled with hydrological data from the United States Geological Survey, to estimate the causal impact of maternal exposure to PFAS on gestation, birthweight, and neonatal deaths. We find that zip codes whose (population-weighted) centroid lies at a lower groundwater table elevation than a nearby contaminated site have significantly higher proportions of both premature and low birthweight births than zipcodes at similar distances from a contaminated site but whose centroids lie at a higher groundwater table elevation. We also find suggestive evidence that this relationship holds true for the proportion of neonatal deaths in a zipcode. We find that the effect on premature births is increasing in the contamination level at the site. Further, we find suggestive evidence that these effects are both increasing in the density of private wells in the zipcode and decreasing in the distance from the contaminated site. Given that treatment is estimated to have caused an additional 1,350 premature births, a back-of-the-envelope calculation gives an estimated societal cost for the effect on premature births of $107 million for the time period (2010-2018) and location (Upstate New York) studied. We are currently in the process of obtaining micro-level natality data from California to expand on these results.
+
+---
+
 ## Publications
 
 "Revisiting the Link Between Economic Distress, Race, and Domestic Violence." Journal of Interpersonal Violence. 2020, Vol. 35(19-20) pp. 4141-4151 (with J. Sebastian Leguizamon and Susane Leguizamon)
@@ -37,7 +43,8 @@ Abstract: Proper land-use policy can help mitigate damages from natural disaster
 
 "A Historical Measure of Risk Preferences" (with [Remy Levin](https://sites.google.com/view/remy-levin) and [Daniela Vidart](https://www.danielavidart.com))
 
-"Impacts of Maternal Exposure to PFAS on Infant Health Outcomes" (with [Robert Baluja](https://www.robertbaluja.com), [Bo Guo](https://has.arizona.edu/people/bo-guo), [Ashley Langer](https://www.ashleylanger.com), and [Derek Lemoine](https://www.dereklemoine.com))
+
+"Measuring error in weather data" (with [Derek Lemoine](https://www.dereklemoine.com) and [Wint Myat Thu](https://eller.arizona.edu/people/wint-thu))
 
 "Directed technical change in energy and choice of market policy"
 
