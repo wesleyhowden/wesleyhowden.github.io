@@ -46,7 +46,7 @@ Abstract: Since testing began in 1999, scientists at the CDC administering the N
 
 "Measuring error in weather data" (with [Derek Lemoine](https://www.dereklemoine.com) and [Wint Myat Thu](https://eller.arizona.edu/people/wint-thu))
 
-"Jet stream linkages and global production" (with [Derek Lemoine](https://www.dereklemoine.com), [Abbie Boatwright](https://eller.arizona.edu/people/abbie-boatwright), and [Ellie Broadman](https://www.elliebroadman.com))
+"Jet stream linkages and global production" (with [Abbie Boatwright](https://eller.arizona.edu/people/abbie-boatwright), and [Ellie Broadman](https://www.elliebroadman.com), [Derek Lemoine](https://www.dereklemoine.com))
 
 
 
