@@ -46,6 +46,10 @@ Abstract: Since testing began in 1999, scientists at the CDC administering the N
 
 "Measuring error in weather data" (with [Derek Lemoine](https://www.dereklemoine.com) and [Wint Myat Thu](https://eller.arizona.edu/people/wint-thu))
 
+"Jet stream linkages and global production" (with [Derek Lemoine](https://www.dereklemoine.com), [Abbie Boatwright](https://eller.arizona.edu/people/abbie-boatwright), and [Ellie Broadman](https://www.elliebroadman.com))
+
+
+
 "Directed technical change in energy and choice of market policy"
 
 "International spillover in secondary car market regulation: Evidence from a German scrappage policy"
