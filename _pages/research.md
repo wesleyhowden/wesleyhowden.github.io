@@ -9,9 +9,9 @@ author_profile: true
 
 ## Job Market Paper
 
-["Adaptation to Weather Shocks and Household Beliefs on Climate: Evidence from California"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3892429) (*new version coming soon!*)
+["Adaptation to Weather Shocks and Household Beliefs on Climate: Evidence from California"](../files/whowden_jmp.pdf) (*new version coming soon!*)
 
-Abstract: Using a difference-in-difference framework, I show that California households exposed to a severe heat wave are differentially more likely to adopt central air conditioning units than those less exposed, controlling for historical climate. Using these "induced adopters" to predict take-up, I show that induced adopters have a significant increase in their summer energy demand 3 years following the heat wave, with insignificant effects on their winter electricity demand. In addition, I present a theoretical framework where household belief-updating about the climate rationalizes household learning about the climate that cannot be explained by myopia or alternative channels.
+Abstract: Using a difference in differences framework, I show that California households exposed to heat anomalies are differentially more likely to adopt central air conditioning units than those less exposed, controlling for historical climate.  Using these ``induced adopters" to predict take-up, I show that induced adopters have a significant increase in their summer energy demand in years following anomalies, with insignificant effects on their winter electricity demand. Unlike existing work linking weather to energy demand, this presents a novel form of \textit{ex ante} adaptation to weather, and I show that these effects are differentially concentrated in households that believe in climate change. In addition, I present a dynamic structural framework where household belief-updating about the climate rationalizes household learning about the climate that cannot be explained by myopia or alternative channels, and propose counterfactual policy experiments that investigate the dynamics of future adaptation.
 
 ## Working Papers
 
