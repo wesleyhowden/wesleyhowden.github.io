@@ -14,7 +14,7 @@ My name is Wesley (Wes) Howden. I am a postdoctoral research associate at the [U
 
 I study how individuals and societies adapt and mitigate against the impacts of climate and environmental change.
 
-**I am on the 2022-2023 economics job market and available for interviews at the ASSA meetings.**
+**I will join Wesleyan University as an Assistant Professor of Economics in Fall 2023.**
 
 <!---
 ## Education
