@@ -9,13 +9,13 @@ author_profile: true
 
 ## Current Courses
 
-# Wesleyan University
+### Wesleyan University
 
 Microeconomic Analysis (ECON 301)
 
 ## Previous Courses Taught
 
-# University of California San Diego
+### University of California San Diego
 
 Principles of Macroeconomics
 - 100% Recommended as Instructor (20/27 response rate)
@@ -24,7 +24,7 @@ Principles of Macroeconomics
 
 ## Teaching Assistant
 
-# University of California San Diego
+### University of California San Diego
 
 - Masters: Microeconomics for Policy & Management, Environmental Economics
 - Undergraduate: Energy Economics, Intermediate Macroeconomics, Intermediate Microeconomics
