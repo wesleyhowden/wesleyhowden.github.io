@@ -13,7 +13,7 @@ author_profile: true
 
 Microeconomic Analysis (ECON 301)
 
-## Previous Courses Taught
+## Previous Courses 
 
 ### University of California San Diego
 
