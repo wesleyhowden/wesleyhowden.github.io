@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-## Courses Taught
+## Current Courses
+
+Intermediate Microeconomics
+
+## Previous Courses Taught
 
 Principles of Macroeconomics
 - 100% Recommended as Instructor (20/27 response rate)

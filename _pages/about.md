@@ -10,7 +10,11 @@ redirect_from:
 
 Welcome to my homepage!
 
-My name is Wesley (Wes) Howden. I am a postdoctoral research associate at the [University of Arizona Department of Economics](https://eller.arizona.edu/departments-research/schools-departments/economics) and work with the [Arizona Institute for Resilience](https://environment.arizona.edu/aires). I recently received my Ph.D. in economics at the University of California San Diego.
+My name is Wesley (Wes) Howden. I am an Assistant Professor of Economics at [Wesleyan University](https://www.wesleyan.edu/econ/). I study how individuals and societies adapt and mitigate against the impacts of climate and environmental change.
+
+Previously, I was a postdoctoral research associate at the [University of Arizona Department of Economics](https://eller.arizona.edu/departments-research/schools-departments/economics) and worked with the [Arizona Institute for Resilience](https://environment.arizona.edu/aires). I received my Ph.D. in economics at the [University of California San Diego](https://economics.ucsd.edu/).
+
+<!--- My name is Wesley (Wes) Howden. I am a postdoctoral research associate at the [University of Arizona Department of Economics](https://eller.arizona.edu/departments-research/schools-departments/economics) and work with the [Arizona Institute for Resilience](https://environment.arizona.edu/aires). I recently received my Ph.D. in economics at the University of California San Diego.
 
 I study how individuals and societies adapt and mitigate against the impacts of climate and environmental change.
 
