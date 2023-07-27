@@ -11,7 +11,7 @@ author_profile: true
 
 # Wesleyan University
 
-Intermediate Microeconomics
+Microeconomic Analysis (ECON 301)
 
 ## Previous Courses Taught
 
