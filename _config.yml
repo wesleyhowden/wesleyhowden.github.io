@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wesley Howden"
+  name             : "Wesley Howden, Ph.D."
   avatar           : https://avatars.githubusercontent.com/u/12239988?v=4
-  bio              : "Economics Ph.D. studying climate and environmental economics"
-  location         : Tucson, AZ
+  bio              : "Economist studying climate and environmental economics"
+  location         : Middletown, CT
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "whowden@arizona.edu"
+  email            : "whowden@wesleyan.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : https://eller.arizona.edu/people/wesley-howden
+  uri              : https://www.wesleyan.edu/academics/faculty/whowden/profile.html
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "wezlayyy"
+  twitter          :
   vine             :
   weibo            :
   xing             :
