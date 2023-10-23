@@ -40,15 +40,12 @@ Abstract: Since testing began in 1999, scientists at the CDC administering the N
 ---
 
 ## Works in Progress
-
-"A Historical Measure of Risk Preferences" (with [Remy Levin](https://sites.google.com/view/remy-levin) and [Daniela Vidart](https://www.danielavidart.com))
-
+<!--
+"A Historical Measure of Risk Preferences" (with [Remy Levin](https://sites.google.com/view/remy-levin) and [Daniela Vidart](https://www.danielavidart.com)) -->
 
 "Measuring error in weather data" (with [Derek Lemoine](https://www.dereklemoine.com) and [Wint Myat Thu](https://eller.arizona.edu/people/wint-thu))
 
 "Jet stream linkages and global production" (with [Abbie Boatwright](https://eller.arizona.edu/people/abbie-boatwright), [Ellie Broadman](https://www.elliebroadman.com), and [Derek Lemoine](https://www.dereklemoine.com))
-
-
 
 "Directed technical change in energy and choice of market policy"
 
